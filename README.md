@@ -10,6 +10,8 @@ This project demonstrates how to build and configure a multi‑router BGP topolo
 ```
 PC1 — R1 — R2 — R3 — R4 — PC2
 ```
+<img width="1368" height="256" alt="image" src="https://github.com/user-attachments/assets/861f5c2a-7a26-4e84-8b0e-dea290661950" />
+
 
 | Device | Interface | IP Address | Description |
 |--------|-----------|------------|-------------|
