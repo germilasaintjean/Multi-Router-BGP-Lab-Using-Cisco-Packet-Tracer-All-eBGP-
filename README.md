@@ -2,7 +2,7 @@
 Built a multi‑router BGP lab in Cisco Packet Tracer to simulate inter‑domain routing across multiple autonomous systems. Configured BGP neighbors, advertised networks, verified route propagation, and achieved full end‑to‑end connectivity between hosts in different ASes.
 
 ### 📁 **File Included**
-- **Dual‑AS BGP Routing Lab Using eBGP (Cisco Packet Tracer)
+- Dual‑AS BGP Routing Lab Using eBGP (Cisco Packet Tracer)
 
 This project demonstrates how to build and configure a multi‑router BGP topology in Cisco Packet Tracer. The goal was to simulate inter‑domain routing across four autonomous systems and achieve full end‑to‑end connectivity between two hosts located in different networks. The lab includes IP addressing, BGP neighbor configuration, route advertisement, troubleshooting, and verification.
 ---
